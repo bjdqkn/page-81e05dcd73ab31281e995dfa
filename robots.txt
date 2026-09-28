@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.y7lgh34.cn/sitemap.xml
